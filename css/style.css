@@ -285,6 +285,10 @@ body{
     background-color: var(--color-menu-hover);
     color: var(--color-menu-hover-texto);
 }
+#inbox2{
+    background-color: var(--color-menu-hover);
+    color: var(--color-menu-hover-texto);
+}
 
 main{
     margin-left: 250px;
@@ -1329,3 +1333,20 @@ main.min-main{
    padding: 0 20px;
   }
  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
