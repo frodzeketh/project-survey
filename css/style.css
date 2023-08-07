@@ -790,7 +790,7 @@ main.min-main{
    align-items: center;
    justify-content: space-between;
    animation: slideY .6s both
-   //display: none;
+   
   }
   &-show {
    font-size: 19px;
@@ -818,7 +818,7 @@ main.min-main{
   grid-column-gap: 25px;
   grid-row-gap: 25px;
   animation: slideY .6s both;
-  //display: none;
+  
   @media screen and (max-width: 1212px) {
    grid-template-columns: repeat(2, 1fr);
   }
